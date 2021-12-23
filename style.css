@@ -6,3 +6,11 @@
 picture img{
   width: 100%;
 }
+
+h1{
+  text-align: center;
+  font-family: monospace;
+  font-size: 3rem;
+  color: #c87571;
+  margin: 30px 0;
+}
